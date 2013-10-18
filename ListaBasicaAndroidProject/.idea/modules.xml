@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ListaBasicaAndroid/ListaBasicaAndroid.iml" filepath="$PROJECT_DIR$/ListaBasicaAndroid/ListaBasicaAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaBasicaAndroidProject.iml" filepath="$PROJECT_DIR$/ListaBasicaAndroidProject.iml" />
+    </modules>
+  </component>
+</project>
+
